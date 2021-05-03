@@ -39,3 +39,22 @@
 
 ### vscode-icons
 
+
+
+#### c/c++
+c/c++
+
+```
+https://sourceforge.net/projects/mingw-w64/files/
+https://github.com/microsoft/vscode-cpptools
+```
+
+#### php
+php debug
+php extension pack
+php intellisense
+
+#### javascript
+eslint
+es7 react
+react native tools
