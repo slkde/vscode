@@ -25,6 +25,9 @@ docker支持。
 ### DotENV
 
 .env文件支持。
+### Dracula Official
+
+主题颜色。
 ### GitLens
 
 git支持。
@@ -33,7 +36,7 @@ git支持。
 markdown支持
 ### One Dark Pro
 
-配色主题。
+主题颜色。
 ### Prettier - Code formatter
 
 代码颜色。
