@@ -1,7 +1,16 @@
 ## 说明：
 推荐在windows搭配[wsl](https://github.com/slkde/wsl)和[docker](https://github.com/slkde/docker_lnmp)使用。
+```
+https://github.com/slkde/docker_lnmp
+https://gitee.com/slkde/docker_lnmp
+
+https://github.com/slkde/wsl
+https://gitee.com/slkde/wsl
+```
 
 点击连接远程，点击remote-containers: attach to running container
+
+新版本vscode，在docker扩展里，点击php容器，点击 attach vs code
 
 选择正在运行的docker容器。
 
